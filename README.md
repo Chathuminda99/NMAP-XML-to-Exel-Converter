@@ -29,7 +29,7 @@ pip install pandas openpyxl
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/nmap-xml-to-excel.git
+    git clone https://github.com/chathuminda99/nmap-xml-to-excel.git
     cd nmap-xml-to-excel
     ```
 
